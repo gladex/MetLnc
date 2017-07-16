@@ -1,6 +1,6 @@
 # MetLnc
 
-Intercellular crosstalk effect between DNA methylation and lncRNA regulation remain open questions in carcinoma epigenetics, although both epigenetic regulations are putatively regarded as important factors in cell differentiation and development processes.
+Intercellular crosstalk effects between DNA methylation and lncRNA regulation remain open questions in carcinoma epigenetics, although both epigenetic regulations are putatively regarded as important factors in cell differentiation and development processes.
 
 We present an application MetLnc in integration and annotation of for DNA methylation and lncRNA, thus to comprehensively analyze differentially methylated loci (regions) and lncRNA transcription through deep interrogation.
 
