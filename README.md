@@ -8,4 +8,4 @@ MetLnc provides multiple versatile functions for investigating and annotating DN
 
 Contact: Binhua Tang, PhD (bh.tang@outlook.com)
 
-Last update: 2017/07/14
+Last update: 2018/02/10
