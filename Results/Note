@@ -1,0 +1,4 @@
+This folder contains two analyzed result lists:
+1) Differentially expressed lncRNA list;
+2) Differentially methylated loci list.
+The corresponding statistical test and p-value criteria are included in each list file.
